@@ -1,16 +1,31 @@
-## Hi there 👋
+# <p align="center">Hi there, I'm Mutiara Christin Marpaung 👋</p>
 
-<!--
-**Mutiara0406/Mutiara0406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <p align="center">Information Technology Student · Institut Teknologi Del</p>
 
-Here are some ideas to get you started:
+## <p align="center">Quality Assurance & Software Testing</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👩‍💻 About Me
+
+```json
+mutiara = {
+    "name": "Mutiara Christin Marpaung",
+    "university": "Institut Teknologi Del",
+    "major": "Information Technology",
+    "semester": 5,
+
+    "interests": [
+        "Quality Assurance",
+        "Software Testing"
+    ],
+
+    "currently_learning": [
+        "Manual Testing",
+        "API Testing",
+        "Test Case Documentation"
+    ],
+
+    "focus": "Ensuring application quality and defect-free systems",
+    "goal": "Become a professional Quality Assurance Engineer"
+}
